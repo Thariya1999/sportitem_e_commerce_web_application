@@ -1,0 +1,28 @@
+[
+    {
+    "name": "Roshan perera",
+    "email": "roshanperera@gmail.com",
+    "password": "roshan123",
+    "avatar": {
+        "url": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t1.6435-9/79775078_1233326690201283_6504100633983844352_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=TQnbdCrNeXMAX8AgSvj&_nc_ht=scontent.fcmb1-2.fna&oh=00_AfAd7TvDuGKRSNz_GyWtdXML8IkD7bjCIrnm684rDgWBNA&oe=64EA533B"
+        }
+    },
+
+    {
+        "name": "Niroshan Dreamz",
+        "email": "niroshandreamz@gmail.com",
+        "password": "niro123",
+        "avatar": {
+          "url": "https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/279851841_3317178685181349_2963956353673025789_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=AcnKMtJ9U6EAX_IrJ66&_nc_ht=scontent.fcmb1-2.fna&oh=00_AfCN-3Y-g8gL3yPsYnQBNALVaigsTmj1ewXhYPqKJqmEZw&oe=64C71D6F"
+        }
+      },
+
+      {
+        "name": "Chris Gayle",
+        "email": "chrisgayle@gmail.com",
+        "password": "uniboss123",
+        "avatar": {
+          "url": "https://www.bigbash.com.au/-/media/Players/Men/International/West%20Indies/ODIWC19/Chris-Gayle-CWC19.ashx"
+        }
+      }
+]
