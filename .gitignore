@@ -30,11 +30,12 @@ yarn.lock
 .vscode/
 .idea/
 
+.env
+/backend/config/config.env
+
 # Ignore temporary or backup files
 *.tmp
 *.bak
 *.swp
 *~
 
-.env
-/config/config.env
